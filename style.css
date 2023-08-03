@@ -14,8 +14,8 @@
     padding: 24px 0;
     }
     .cabecalho-imagem{
-    width: 10%;
-    }
+        width: 10%;
+        }
     .cabecalho-lista-item{
     display: inline-block;
     margin: 0 16px;
@@ -25,7 +25,7 @@
     width: 25%;
     }
     .escola{
-    background-image: linear-gradient(#424E61,#16CFF8);
+    background-image: linear-gradient(#0719b6,#7c255f);
     
     color:white;
     display: flex;
@@ -60,7 +60,7 @@
     }
     .estudante-todos{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-columns: 50% 50%;
     }
     .rodape{
     background-color: black;
